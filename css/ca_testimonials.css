@@ -1,0 +1,33 @@
+/* CA Newsletter CSS */
+  /* Template One */
+  #ca-testimonials-template-one .views-field-field-ca-testimonials-t-img-fid {float: left; margin: 0 10px;}
+  #ca-testimonials-template-one .views-field-title {margin-right: 10px; text-align: right;}
+  #ca-testimonials-template-one .views-field-field-ca-testimonials-t-link-url {margin-right: 10px; text-align: right;}
+  #ca-testimonials-template-one .views-field-nothing {clear: both; margin-bottom: 10px; padding-bottom: 10px; border-bottom: 1px solid #D2D2D2;}
+  #ca-testimonials-template-one .views-row-last .views-field-nothing {border: none;}
+	
+  /* Template Two */
+  #ca-testimonials-template-two .views-field-field-ca-testimonials-t-img-fid {float: left; margin: 0 10px;}
+  #ca-testimonials-template-two .views-field-title {margin-right: 10px; text-align: right;}
+  #ca-testimonials-template-two .views-field-field-ca-testimonials-t-link-url {margin-right: 10px; text-align: right;}
+  #ca-testimonials-template-two .views-field-nothing {clear: both; margin-bottom: 10px; padding-bottom: 10px; border-bottom: 1px solid #D2D2D2;}
+  #ca-testimonials-template-two .views-row-last .views-field-nothing {border: none;}
+	
+	/* Node Template One */
+  #ca-testimonials-template-one .pane-field-ca-testimonials-t-img {float: left; margin: 0 10px;}
+  #ca-testimonials-template-one .field-field-ca-testimonials-t-link {margin-right: 10px; text-align: right;}
+	
+	/* Block Template One */
+  .ca-testimonials-template-one .views-field-field-ca-testimonials-t-img-fid {float: left; margin: 0 10px;}
+  .ca-testimonials-template-one .views-field-title {margin-right: 10px; text-align: right;}
+  .ca-testimonials-template-one .views-field-field-ca-testimonials-t-link-url {margin-right: 10px; text-align: right;}
+  .ca-testimonials-template-one .view-content .views-field-nothing {clear: both; margin-bottom: 10px; padding-bottom: 10px; border-bottom: 1px solid #D2D2D2;}
+  .ca-testimonials-template-one .view-content .views-row-last .views-field-nothing {border: none;}
+	
+	/* Block Template Two */
+  .ca-testimonials-template-two .views-field-field-ca-testimonials-t-img-fid {float: left; margin: 0 10px;}
+  .ca-testimonials-template-two .views-field-title {margin-right: 10px; text-align: right;}
+  .ca-testimonials-template-two .views-field-field-ca-testimonials-t-link-url {margin-right: 10px; text-align: right;}
+  .ca-testimonials-template-two .view-content .views-field-nothing {clear: both; margin-bottom: 10px; padding-bottom: 10px; border-bottom: 1px solid #D2D2D2;}
+  .ca-testimonials-template-two .view-content .views-row-last .views-field-nothing {border: none;}
+
