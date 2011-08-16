@@ -8,20 +8,6 @@ function ca_testimonials_strongarm() {
   $strongarm = new stdClass;
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
-  $strongarm->name = 'ca_testimonials_list_template';
-  $strongarm->value = 'ca_testimonials_list_template_one';
-
-  $export['ca_testimonials_list_template'] = $strongarm;
-  $strongarm = new stdClass;
-  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
-  $strongarm->api_version = 1;
-  $strongarm->name = 'ca_testimonials_node_template';
-  $strongarm->value = 'ca_testimonials_node_template_one';
-
-  $export['ca_testimonials_node_template'] = $strongarm;
-  $strongarm = new stdClass;
-  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
-  $strongarm->api_version = 1;
   $strongarm->name = 'content_extra_weights_ca_testimonials';
   $strongarm->value = array(
     'title' => '-5',
